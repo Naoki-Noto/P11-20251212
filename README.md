@@ -2,9 +2,9 @@
 
 Table of Contents
 ML/
-- data : Contains the dataset with synthesis parameters, the properties used for labeling, and the corresponding labels.
+- data/ : Contains the dataset with synthesis parameters, the properties used for labeling, and the corresponding labels.
 
-- result/ML : Stores the results of the ML classification.
+- result/ML/ : Stores the results of the ML classification.
 
 - Create_dataset.py : Script for generating nanoparticle classes.
 
